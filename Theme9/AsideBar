@@ -1,1 +1,18 @@
-
+Below class applied to body tag:
+ 
+Before click on Aside toggle:
+    kt-aside--fixed
+    kt-aside--left
+    kt-demo-panel--right
+    kt-header--fixed
+    kt-header--minimize-menu
+    kt-header-mobile--fixed
+    kt-offcanvas-panel--right
+    kt-page--loading-enabled
+    kt-quick-panel--right
+    kt-subheader--enabled
+    kt-subheader--transparent
+    
+After click on Aside toggle add below class to body tag.
+    kt-aside--on
+    
